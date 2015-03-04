@@ -8,7 +8,7 @@
 		<sqlFile path="001_create_role_table.sql"
 			encoding="UTF-8" />
 		<rollback>
-			<sqlFile path="rollback/001_drop_role_table.sql"
+			<sqlFile path="001_drop_role_table.sql"
 				encoding="UTF-8" />
 		</rollback>
 	</changeSet>
