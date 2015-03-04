@@ -1,1 +1,1 @@
-drop table uDeploy_role;
+drop table test_role;
